@@ -19,8 +19,25 @@ ul li a{
     display: flex;
     max-width: 992px;
     margin: auto;
+    width: 100%;
 }
 
 header{
     background-color: #122a57;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+Oxente%21+
+header .list-items{
+    display: flex;
+}
+
+.list-items{
+    color: white;
+}
+
+header .menu{
+    justify-content: space-between;
 }
